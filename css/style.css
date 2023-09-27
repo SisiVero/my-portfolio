@@ -430,12 +430,6 @@ header {
 
 
 /* footer */
-footer{
-    border: 2px solid red;
-
-
-}
-
 .footer {
     background: #111;
     color: var(--color-accent);
